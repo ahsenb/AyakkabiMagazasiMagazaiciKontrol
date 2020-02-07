@@ -1,0 +1,48 @@
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\bin\Debug\Ayakkabı Mağazası.exe.config
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\bin\Debug\Ayakkabı Mağazası.exe
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\bin\Debug\Ayakkabı Mağazası.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Form1.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Properties.Resources.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.exe
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.AyakkabıSiparisiVer.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.ElemanEkle.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.IsikveKlimaKapatma.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Hesaplama.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Bitis.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.UrünSatisDegisikligi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\bin\Debug\Ayakkabı Mağazası.exe.config
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\bin\Debug\Ayakkabı Mağazası.exe
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\bin\Debug\Ayakkabı Mağazası.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.AyakkabıSiparisiVer.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Bitis.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.ElemanEkle.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Form1.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Hesaplama.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.IsikveKlimaKapatma.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Properties.Resources.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.UrünSatisDegisikligi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.exe
+C:\Users\win7\Desktop\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.pdb
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\bin\Debug\Ayakkabı Mağazası.exe.config
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\bin\Debug\Ayakkabı Mağazası.exe
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\bin\Debug\Ayakkabı Mağazası.pdb
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.AyakkabıSiparisiVer.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Bitis.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.ElemanEkle.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Form1.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Hesaplama.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.IsikveKlimaKapatma.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.Properties.Resources.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı_Mağazası.UrünSatisDegisikligi.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.csproj.GenerateResource.cache
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.csproj.CoreCompileInputs.cache
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.exe
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Ayakkabı Mağazası(Nesne Proje2)\Ayakkabı Mağazası\obj\Debug\Ayakkabı Mağazası.pdb
